@@ -4,7 +4,7 @@
 
 ## English
 
-A Python tool for automatically translating Odoo POT files to Chinese (zh_CN).
+A Python tool for automatically translating Odoo POT files to Chinese (zh_CN.po).
 
 ### Features
 - Automatically translates POT files to Chinese
@@ -77,7 +77,7 @@ deactivate
 
 ## 中文
 
-一个用于将Odoo POT文件自动翻译成中文(zh_CN)的Python工具。
+一个用于将Odoo POT文件自动翻译成中文(zh_CN.po)的Python工具。
 
 ### 功能特点
 - 自动将POT文件翻译成中文
