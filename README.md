@@ -22,7 +22,7 @@ A Python tool for automatically translating Odoo POT files to Chinese (zh_CN).
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/odoo-translator.git
+git clone https://github.com/bigfoot88/odoo-translator.git
 cd odoo-translator
 ```
 
@@ -95,7 +95,7 @@ deactivate
 ### 安装
 1. 克隆仓库：
 ```bash
-git clone https://github.com/YOUR_USERNAME/odoo-translator.git
+git clone https://github.com/bigfoot88/odoo-translator.git
 cd odoo-translator
 ```
 
